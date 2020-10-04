@@ -497,5 +497,8 @@ From this graph, it is visible that in the lighter colored regions which indicat
 
   19. Below, provide a link to your GitHub page with this set of Weekly Exercises. Specifically, if the name of the file is 04_exercises.Rmd, provide a link to the 04_exercises.md file, which is the one that will be most readable on GitHub.
 
+This is the link to the file on github:
+
+https://github.com/KashviAjitsaria/4th-weekly-exercise/blob/master/KashviExercise4.Rmd
 
 **DID YOU REMEMBER TO UNCOMMENT THE OPTIONS AT THE TOP?**
